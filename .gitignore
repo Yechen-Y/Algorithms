@@ -3,4 +3,5 @@
 !.gitignore
 .idea/
 .out/
+.DS_Store
 
